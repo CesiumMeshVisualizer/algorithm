@@ -155,7 +155,7 @@ mamba search r-gtools --channel conda-forge
 Alternatively, `mamba repoquery` may provide more information:
 
 ```
-# pList
+# algorithm
 mamba repoquery search r-gtools --channel conda-forge
 
 # List packages depending on `r-gtools`:
